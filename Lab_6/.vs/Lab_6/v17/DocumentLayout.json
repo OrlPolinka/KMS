@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\Lab_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4691C42-2EA5-E42F-7190-1741A2D0ECF6}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\lab_6\\assets\\script2_lab6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4691C42-2EA5-E42F-7190-1741A2D0ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\script2_lab6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4691C42-2EA5-E42F-7190-1741A2D0ECF6}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\lab_6\\assets\\script1_lab6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4691C42-2EA5-E42F-7190-1741A2D0ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\script1_lab6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Script1_lab6.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\Lab_6\\Assets\\Script1_lab6.cs",
+              "RelativeDocumentMoniker": "Assets\\Script1_lab6.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\Lab_6\\Assets\\Script1_lab6.cs",
+              "RelativeToolTip": "Assets\\Script1_lab6.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:37:17.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script2_lab6.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\Lab_6\\Assets\\Script2_lab6.cs",
+              "RelativeDocumentMoniker": "Assets\\Script2_lab6.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\Lab_6\\Assets\\Script2_lab6.cs",
+              "RelativeToolTip": "Assets\\Script2_lab6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T11:30:45.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
