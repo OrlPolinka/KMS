@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/\u0421\u0442\u043E\u043B\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F.unity"
+- path: "Assets/\u0422\u0440\u0438\u0433\u0433\u0435\u0440\u044B.unity"
   isLoaded: 1
   isActive: 1

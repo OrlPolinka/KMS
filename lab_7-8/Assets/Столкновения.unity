@@ -392,8 +392,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 072d01b0881b6cf4c86209fa4dd0e1c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cube1: {fileID: 1533296089}
-  cube2: {fileID: 1637617391}
+  Cube1: {fileID: 1533296089}
+  Texture1: {fileID: 2800000, guid: 9fbde09efb6b78e4d9370d37a6d5c5f1, type: 3}
+  Texture2: {fileID: 2800000, guid: 6257792bfe33f4a4a975fd4c4a28cc55, type: 3}
 --- !u!54 &1459561450
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -470,7 +471,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1459561448}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.36, y: 1.29, z: 0.35897446}
+  m_LocalPosition: {x: 2.36, y: 0.97, z: 0.35897446}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

@@ -4,27 +4,30 @@ using UnityEngine;
 
 public class Script1_lab7_8 : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+    public GameObject Cube1;
 
-	public GameObject cube1;
-	public GameObject cube2;
+    public Texture Texture1; // текстура для столкновения
+    public Texture Texture2; // текстура для клавиши
 
-	void OnCollisionEnter(Collision col)
-	{
-		if(col.gameObject.name == "Capsule")
-		{
-			Color capsuleColor = col.gameObject.GetComponent<Renderer>().material.color;
+    // Use this for initialization
+    void Start () {
+        //GetComponent<Renderer>().material.color = Color.red;
+    }
 
-			if(cube1 != null) 
-				cube1.GetComponent<Renderer>().material.color = capsuleColor;
+	
 
-            if (cube2 != null)
-                cube2.GetComponent<Renderer>().material.color = capsuleColor;
+    void OnCollisionEnter(Collision col)
+    {
+        // Наложение текстуры при столкновении
+        if (Texture1 != null)
+        {
+            col.gameObject.GetComponent<Renderer>().material.mainTexture = Texture1;
         }
-	}
+
+        //Color myColor = GetComponent<Renderer>().material.color;
+        //col.gameObject.GetComponent<Renderer>().material.color = myColor;
+    }
+
 
     // Update is called once per frame
     void Update () {
@@ -34,5 +37,14 @@ public class Script1_lab7_8 : MonoBehaviour {
 
 		float horMouse = Input.GetAxis("Mouse X");
 		transform.Rotate(0, horMouse, 0);
+
+        // Наложение текстуры по клавише T
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            if (Cube1 != null && Texture2 != null)
+            {
+                Cube1.GetComponent<Renderer>().material.mainTexture = Texture2;
+            }
+        }
     }
 }

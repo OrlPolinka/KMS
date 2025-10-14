@@ -51,7 +51,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ColorScript.cs" />
+     <Compile Include="Assets\FlyingBarTriggerScript.cs" />
+     <Compile Include="Assets\GateTriggerScript.cs" />
+     <Compile Include="Assets\Light_Trigger_Script.cs" />
+     <Compile Include="Assets\player2_Script.cs" />
      <Compile Include="Assets\Script1_lab7_8.cs" />
+     <Compile Include="Assets\Script2_lab7_8.cs" />
+     <Compile Include="Assets\SpotTriggerScript.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.40f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
