@@ -4,12 +4,10 @@ using UnityEngine;
 
 public class Script2_lab7_8 : MonoBehaviour {
 
-	// Use this for initialization
 	void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
         float hor = Input.GetAxis("Horizontal");
         float vert = Input.GetAxis("Vertical");

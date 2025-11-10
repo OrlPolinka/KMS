@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\ColorScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ColorScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\SpotTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:Assets\\SpotTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\GateTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GateTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script2_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script2_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\FlyingBarTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FlyingBarTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\player2_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\player2_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_7-8\\assets\\script1_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\assets\\script1_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:assets\\script1_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script2_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script2_lab7_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\player2_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:Assets\\player2_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\SpotTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpotTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Light_Trigger_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Light_Trigger_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Light_Trigger_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Light_Trigger_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\GateTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:Assets\\GateTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\FlyingBarTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:Assets\\FlyingBarTriggerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_7-8\\assets\\colorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D02EF-053A-2B8F-812F-9CD6B80F50D7}|Assembly-CSharp.csproj|solutionrelative:assets\\colorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,28 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColorScript.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\ColorScript.cs",
-              "RelativeDocumentMoniker": "Assets\\ColorScript.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\ColorScript.cs",
-              "RelativeToolTip": "Assets\\ColorScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GateTriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\GateTriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GateTriggerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\GateTriggerScript.cs",
+              "RelativeToolTip": "Assets\\GateTriggerScript.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T18:15:30.258Z",
+              "WhenOpened": "2025-10-14T17:26:17.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FlyingBarTriggerScript.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\FlyingBarTriggerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\FlyingBarTriggerScript.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\FlyingBarTriggerScript.cs",
-              "RelativeToolTip": "Assets\\FlyingBarTriggerScript.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Light_Trigger_Script.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Light_Trigger_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Light_Trigger_Script.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Light_Trigger_Script.cs",
+              "RelativeToolTip": "Assets\\Light_Trigger_Script.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T17:56:38.562Z",
+              "WhenOpened": "2025-10-14T16:55:05.118Z",
               "EditorCaption": ""
             },
             {
@@ -86,74 +86,74 @@
               "RelativeDocumentMoniker": "Assets\\player2_Script.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\player2_Script.cs",
               "RelativeToolTip": "Assets\\player2_Script.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T17:45:34.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Script1_lab7_8.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script1_lab7_8.cs",
+              "RelativeDocumentMoniker": "Assets\\Script1_lab7_8.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script1_lab7_8.cs",
+              "RelativeToolTip": "Assets\\Script1_lab7_8.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:04:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GateTriggerScript.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\GateTriggerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\GateTriggerScript.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\GateTriggerScript.cs",
-              "RelativeToolTip": "Assets\\GateTriggerScript.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T17:26:17.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SpotTriggerScript.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\SpotTriggerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\SpotTriggerScript.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\SpotTriggerScript.cs",
-              "RelativeToolTip": "Assets\\SpotTriggerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T17:01:38.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Light_Trigger_Script.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Light_Trigger_Script.cs",
-              "RelativeDocumentMoniker": "Assets\\Light_Trigger_Script.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Light_Trigger_Script.cs",
-              "RelativeToolTip": "Assets\\Light_Trigger_Script.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T16:55:05.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Script2_lab7_8.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script2_lab7_8.cs",
               "RelativeDocumentMoniker": "Assets\\Script2_lab7_8.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script2_lab7_8.cs",
               "RelativeToolTip": "Assets\\Script2_lab7_8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T16:38:21.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Script1_lab7_8.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script1_lab7_8.cs",
-              "RelativeDocumentMoniker": "Assets\\Script1_lab7_8.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\Script1_lab7_8.cs",
-              "RelativeToolTip": "Assets\\Script1_lab7_8.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SpotTriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\SpotTriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\SpotTriggerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\SpotTriggerScript.cs",
+              "RelativeToolTip": "Assets\\SpotTriggerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T06:04:15.497Z",
+              "WhenOpened": "2025-10-14T17:01:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlyingBarTriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\FlyingBarTriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FlyingBarTriggerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\FlyingBarTriggerScript.cs",
+              "RelativeToolTip": "Assets\\FlyingBarTriggerScript.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:56:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\ColorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ColorScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\lab_7-8\\Assets\\ColorScript.cs",
+              "RelativeToolTip": "Assets\\ColorScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:15:30.258Z",
               "EditorCaption": ""
             }
           ]

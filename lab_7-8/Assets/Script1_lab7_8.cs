@@ -6,10 +6,9 @@ public class Script1_lab7_8 : MonoBehaviour {
 
     public GameObject Cube1;
 
-    public Texture Texture1; // текстура для столкновения
-    public Texture Texture2; // текстура для клавиши
+    public Texture Texture1; 
+    public Texture Texture2; 
 
-    // Use this for initialization
     void Start () {
         //GetComponent<Renderer>().material.color = Color.red;
     }
@@ -18,7 +17,6 @@ public class Script1_lab7_8 : MonoBehaviour {
 
     void OnCollisionEnter(Collision col)
     {
-        // Наложение текстуры при столкновении
         if (Texture1 != null)
         {
             col.gameObject.GetComponent<Renderer>().material.mainTexture = Texture1;
@@ -29,7 +27,6 @@ public class Script1_lab7_8 : MonoBehaviour {
     }
 
 
-    // Update is called once per frame
     void Update () {
 		float hor = Input.GetAxis("Horizontal");
 		float vert = Input.GetAxis("Vertical");
@@ -38,7 +35,6 @@ public class Script1_lab7_8 : MonoBehaviour {
 		float horMouse = Input.GetAxis("Mouse X");
 		transform.Rotate(0, horMouse, 0);
 
-        // Наложение текстуры по клавише T
         if (Input.GetKeyDown(KeyCode.T))
         {
             if (Cube1 != null && Texture2 != null)

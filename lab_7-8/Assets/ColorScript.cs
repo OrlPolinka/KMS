@@ -17,7 +17,6 @@ public class ColorScript : MonoBehaviour {
     {
         if (col.name == "player" || col.name == "robot")
         {
-            // Плавное увеличение яркости
             if (Point1.intensity < maxIntensity)
                 Point1.intensity += intensitySpeed * Time.deltaTime;
 
@@ -27,18 +26,15 @@ public class ColorScript : MonoBehaviour {
             if (Point3.intensity < maxIntensity)
                 Point3.intensity += intensitySpeed * Time.deltaTime;
 
-            // Вращение цилиндра
             if (Cylinder != null)
                 Cylinder.Rotate(Vector3.back * rotationSpeed * Time.deltaTime, Space.World);
         }
     }
 
-    // Use this for initialization
     void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		
 	}

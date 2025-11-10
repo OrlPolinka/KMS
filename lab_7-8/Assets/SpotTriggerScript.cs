@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpotTriggerScript : MonoBehaviour {
 
-    public GameObject SpotLight; // объект прожектора
+    public GameObject SpotLight; 
     public float rotationSpeed = 50f;
 
     void OnTriggerStay(Collider col)
@@ -15,12 +15,10 @@ public class SpotTriggerScript : MonoBehaviour {
         }
     }
 
-    // Use this for initialization
     void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		
 	}

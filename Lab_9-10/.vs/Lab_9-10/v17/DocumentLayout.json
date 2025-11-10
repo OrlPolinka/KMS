@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_9-10\\assets\\bombscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\bombscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\point2triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\point2triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\point1triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\point1triggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\walltriggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\walltriggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\tank_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\tank_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BombScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\BombScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BombScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\BombScript.cs",
+              "RelativeToolTip": "Assets\\BombScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:05:47.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point2TriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Point2TriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Point2TriggerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Point2TriggerScript.cs",
+              "RelativeToolTip": "Assets\\Point2TriggerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:54:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point1TriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Point1TriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Point1TriggerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Point1TriggerScript.cs",
+              "RelativeToolTip": "Assets\\Point1TriggerScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:54:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WallTriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\WallTriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\WallTriggerScript.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\WallTriggerScript.cs",
+              "RelativeToolTip": "Assets\\WallTriggerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:31:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tank_script.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Tank_script.cs",
+              "RelativeDocumentMoniker": "Assets\\Tank_script.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Tank_script.cs",
+              "RelativeToolTip": "Assets\\Tank_script.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:12:46.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

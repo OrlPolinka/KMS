@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Light_Trigger_Script : MonoBehaviour {
 
-    public Light Point; // источник света
+    public Light Point; 
 
     void OnTriggerEnter(Collider col)
     {
@@ -22,12 +22,10 @@ public class Light_Trigger_Script : MonoBehaviour {
         }
     }
 
-    // Use this for initialization
     void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		
 	}

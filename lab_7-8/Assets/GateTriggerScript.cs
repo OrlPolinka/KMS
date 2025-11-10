@@ -20,7 +20,6 @@ public class GateTriggerScript : MonoBehaviour {
     public float flySpeed = 1f;
     public float rotationSpeed = 100f;
 
-    // Use this for initialization
     void Start () {
         leftClosedPos = GateLeft.position;
         rightClosedPos = GateRight.position;
@@ -52,7 +51,6 @@ public class GateTriggerScript : MonoBehaviour {
         }
     }
 
-    // Update is called once per frame
     void Update () {
         if (isOpening)
         {
