@@ -48,7 +48,7 @@ public class Tank_script : MonoBehaviour {
 
         // Вращение башни по мыши (влево/вправо)
         float mouseX = Input.GetAxis("Mouse X") * turretRotateSpeed * Time.deltaTime;
-        bash.Rotate(0, mouseX, 0);
+        bash.Rotate(0, -mouseX, 0);
 
         // Подъём/опускание ствола по мыши (вверх/вниз)
         float mouseY = Input.GetAxis("Mouse Y") * barrelRotateSpeed * Time.deltaTime;
