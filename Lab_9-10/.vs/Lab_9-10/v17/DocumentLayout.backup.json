@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Panel_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Panel_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_9-10\\assets\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\tank_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\tank_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_9-10\\assets\\core_generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\core_generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\core_generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_9-10\\assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\stv_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Assets\\Panel_Script.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Panel_Script.cs",
               "RelativeToolTip": "Assets\\Panel_Script.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T19:47:42.501Z",
               "EditorCaption": ""
@@ -72,6 +72,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Bot_script.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Bot_script.cs",
+              "RelativeDocumentMoniker": "Assets\\Bot_script.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Bot_script.cs",
+              "RelativeToolTip": "Assets\\Bot_script.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEEAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:33:35.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tank_script.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Tank_script.cs",
               "RelativeDocumentMoniker": "Assets\\Tank_script.cs",
@@ -85,19 +98,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Bot_script.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Bot_script.cs",
-              "RelativeDocumentMoniker": "Assets\\Bot_script.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Bot_script.cs",
-              "RelativeToolTip": "Assets\\Bot_script.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwEwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:33:35.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "core_generated.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\core_generated.cs",
               "RelativeDocumentMoniker": "Assets\\core_generated.cs",
@@ -105,8 +105,7 @@
               "RelativeToolTip": "Assets\\core_generated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:32:12.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T13:32:12.369Z"
             },
             {
               "$type": "Document",
@@ -118,8 +117,7 @@
               "RelativeToolTip": "Assets\\stv_script.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:26:31.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T13:26:31.304Z"
             },
             {
               "$type": "Document",

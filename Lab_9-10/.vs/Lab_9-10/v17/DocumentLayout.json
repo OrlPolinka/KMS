@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_9-10\\assets\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\kms\\lab_9-10\\assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49B42A1-569C-2250-B524-DAC849E34E5A}|Assembly-CSharp.csproj|solutionrelative:assets\\bot_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Assets\\Panel_Script.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043C\u0441\\KMS\\Lab_9-10\\Assets\\Panel_Script.cs",
               "RelativeToolTip": "Assets\\Panel_Script.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T19:47:42.501Z",
               "EditorCaption": ""
@@ -92,8 +92,7 @@
               "RelativeToolTip": "Assets\\Tank_script.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAQwC4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T15:12:46.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T15:12:46.365Z"
             },
             {
               "$type": "Document",
